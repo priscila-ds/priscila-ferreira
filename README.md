@@ -26,8 +26,8 @@ Trabalho principalmente com **Cypress, Playwright, APIs REST, integrações iGam
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priscila-ds&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priscila-ds&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priscila-ds&show_icons=true&theme=transparent)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priscila-ds&layout=compact&theme=transparent)
 
 ---
 
